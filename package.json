@@ -1,0 +1,14 @@
+{
+  "name": "stargaze-minter",
+  "version": "1.0.0",
+  "description": "Minter for stargaze launchpad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.32.2",
+    "@cosmjs/proto-signing": "^0.32.2",
+    "@cosmjs/stargate": "^0.32.2"
+  }
+}
